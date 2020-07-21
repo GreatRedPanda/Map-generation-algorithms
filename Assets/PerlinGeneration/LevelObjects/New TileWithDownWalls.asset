@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c524a142ae8386419740d41c528cd85, type: 3}
+  m_Name: New TileWithDownWalls
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -5253525802234981200, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  LeftUpCorner: {fileID: -4348388538453597257, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  RightUpCorner: {fileID: 7413029876557525953, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  LeftBotCorner: {fileID: -6553137837296684147, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  RightBotCorner: {fileID: -4382406710850217463, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  LeftSide: {fileID: 1538709863860104530, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  RightSide: {fileID: -7245266876881573893, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  UpSide: {fileID: -2545656763044798165, guid: 474992c0e3c645f4d964bf546f18470d, type: 3}
+  DownSide: {fileID: -2735655810975991543, guid: 474992c0e3c645f4d964bf546f18470d,
+    type: 3}
+  Filled: {fileID: -1091786965732933981, guid: 474992c0e3c645f4d964bf546f18470d, type: 3}
+  WallTile: {fileID: 11400000, guid: 0b19758bedb91c541a6462376091bf23, type: 2}
+  TileAllowedToPlaceWall: {fileID: 11400000, guid: 31e9cfb217f14b24f81bddc8a6a217a2,
+    type: 2}

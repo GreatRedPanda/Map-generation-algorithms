@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: bw_tiles_10
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300020, guid: 4cf84542b4047ed44af35821965f41ae, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9811321, g: 0.67173356, b: 0.38412246, a: 1}
   m_Transform:
     e00: 1
     e01: 0
@@ -33,4 +33,4 @@ MonoBehaviour:
     e33: 1
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
-  m_ColliderType: 1
+  m_ColliderType: 0

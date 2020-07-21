@@ -103,7 +103,7 @@ public class PolygonBasedGeneration :MonoBehaviour
                 Edge e = rp.Edges[i];
                 float percent = 0.1f;
                 float sizePercentX = scaledSize.magnitude / Vector2.Distance(e.Start, e.End);
-                Debug.Log("cUDEB SIZE PERCETN" + sizePercentX);
+//Debug.Log("cUDEB SIZE PERCETN" + sizePercentX);
                 Vector2 lastCoord = Vector2.zero;
 
                 Vector3 vector = e.End - e.Start;
